@@ -27,6 +27,6 @@ For that purpose, follow these steps:
 4) Start the server:  
    `label-studio`
 
-For other installation types consult lablel-studio documentation [here](https://labelstud.io/guide/install).  
+For other installation types consult label-studio documentation [here](https://labelstud.io/guide/install).  
 To deactivate the environment run: `deactivate`.  
 To remove the environment named 'labelling' run: `rm -rf labelling`.

@@ -1,6 +1,6 @@
 # sinfo
 Welcome! In this workshop, we'll present to you how to train YOLOv7 to detect a new object.  
-  
+The current code implementation requires a GPU. Make sure it
 To complete this workshop, follow the steps:  
 1) Clone this repo:  
    `git clone https://github.com/ricardosanunes/sinfo.git`

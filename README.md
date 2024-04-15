@@ -9,8 +9,8 @@ To complete this workshop, follow the steps:
 
 <br/><br/>
 The implementation will have two datasets with photos of the new object:
-- Good dataset: plenty images from different angles and backgrounds
-- Bad dataset: fewer images, only from a few angles and mostly with the same background  
+- Bad dataset: less images, only from a few angles and mostly with the same background 
+- Good dataset: more images from different angles and backgrounds 
 
 To train the model with your own images, you must label them. For that, we recommend using [label-studio](https://labelstud.io/).  
 
